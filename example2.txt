@@ -3,6 +3,7 @@ This is a change introduced while working on US7
 
 for elem in Collection:
   operate(elem)
+  do some stuff, which is from US 9
 
 
 This is a change introduced while working on US7
