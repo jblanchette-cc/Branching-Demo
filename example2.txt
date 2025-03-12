@@ -7,7 +7,10 @@ for elem in Collection:
 
 <A bug was here but I removed it>
 <This is a useful line>
+Add some code
 <This is a useful line>
+Add some code
+
 
 This is a change introduced while working on US7
 This is a change introduced while working on US7
