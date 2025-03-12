@@ -8,7 +8,9 @@ for elem in Collection:
 <This is a bug>
 <This is a bug>
 <This is a bug>
+<This is a useful line>
 <This is a bug v2>
+<This is a useful line>
 <This is a bug v2>
 <This is a bug>
 <This is a bug>
