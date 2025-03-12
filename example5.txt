@@ -19,3 +19,12 @@ idea what Latitude was, or Longitude either, but thought they were nice
 grand words to say.)
 
 This might be a conflict down the line! It's introduced while working on US5
+
+The following is introduced in US9
+    “To begin with,” said the Cat, “a dog’s not mad. You grant that?”
+
+    “I suppose so,” said Alice.
+
+    “Well, then,” the Cat went on, “you see, a dog growls when it’s angry,
+    and wags its tail when it’s pleased. Now _I_ growl when I’m pleased,
+    and wag my tail when I’m angry. Therefore I’m mad.”
