@@ -14,4 +14,3 @@ Add some code
 
 This is a change introduced while working on US7
 This is a change introduced while working on US7
-This is a change introduced for US12
